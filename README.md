@@ -2,9 +2,9 @@
 
 Solution to several assignments plus additional work about Virtual Memory with Demand Paging.
 
-**Developed by**: [Alessandro Guggino](https://github.com/alessandroguggino) and [Alessio Claudio](https://github.com/AleCla97).
+👨‍💻 **Developed by**: [Alessandro Guggino](https://github.com/alessandroguggino) and [Alessio Claudio](https://github.com/AleCla97).
 
-**Fun fact**: these assignments are the same ones that kept Mark Zuckerberg busy in his last semester at Harvard.
+✨ **Fun fact**: these assignments are the same ones that kept Mark Zuckerberg busy in his last semester at Harvard.
 
 ---
 
